@@ -1,6 +1,6 @@
 # FarmcareApp
 
-Aplicativo de saúde mental com tema fazendinha, desenvolvido em React Native.
+Aplicativo de saúde mental com tematica de  fazendinha, desenvolvido em React Native.
 
 ## Descrição
 
@@ -34,7 +34,7 @@ Este projeto faz parte do portfólio para demonstrar habilidades em desenvolvime
 1. Clone o repositório:
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/FarmcareApp.git
+git clone https://github.com/OcimarPrado/FarmcareApp.git
 cd FarmcareApp
 \`\`\`
 
@@ -56,8 +56,8 @@ Pull requests são bem-vindos! Para grandes mudanças, abra uma issue primeiro p
 
 ## Contato
 
-Seu Nome – seu-email@exemplo.com  
-[LinkedIn](https://linkedin.com/in/seu-perfil)
+Seu Nome – seu-email|| onprado39@gmail.com  
+[LinkedIn](https://linkedin.com/in/OcimarPrado)
 
 ---
 
