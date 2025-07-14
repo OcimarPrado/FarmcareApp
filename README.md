@@ -57,7 +57,7 @@ Pull requests são bem-vindos! Para grandes mudanças, abra uma issue primeiro p
 ## Contato
 
 Seu Nome – seu-email|| onprado39@gmail.com  
-[LinkedIn](https://linkedin.com/in/OcimarPrado)
+[LinkedIn](https://linkedin.com/in/onprado)
 
 ---
 
